@@ -2,13 +2,15 @@
 
 Give a beautiful look of your text in the terminal.
 
+**link to access to the pypi page :** https://pypi.org/project/aesthetic-text/0.1.0/
+
 ## Installation
 
 ```zsh
-$ pip install aesthetic-text
+$ pip install aesthetic_text
 ```
 
-## Usage
+### Usage
 
 ```python
 import aesthetic_text as aesthetic
