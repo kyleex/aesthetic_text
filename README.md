@@ -5,7 +5,7 @@ Give a beautiful look of your text in the terminal.
 ## Installation
 
 ```zsh
-$ pip install aesthetic-text
+$ pip install aesthetic_text
 ```
 
 ## Usage
