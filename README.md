@@ -13,7 +13,7 @@ $ pip install aesthetic_text
 ### Usage
 
 ```python
-import aesthetic_text as aesthetic
+from aesthetic_text import aesthetic_text as aesthetic
 
 # print a text with a style
 # style: bold, italic, underline, strikethrough, reverse, conceal, crossed
