@@ -2,7 +2,7 @@
 
 Give a beautiful look of your text in the terminal.
 
-**link to access to the pypi page :** https://pypi.org/project/aesthetic-text/0.1.0/
+**link to access to the pypi page :** https://pypi.org/project/aesthetic-text/0.2.0/
 
 ## Installation
 
@@ -24,4 +24,8 @@ print(f"{aesthetic.style.bold}{aesthetic.style.underline}" + "Hello World" + f"{
 print(f"{aesthetic.color.red}" + "Hello World" + f"{aesthetic.reset}")
 
 # print a text with style and color
-print(f"{aesthetic.style.bold}{aesthetic.color.red}" + "Hello World" + f"{aesthetic.reset}"
+print(f"{aesthetic.style.bold}{aesthetic.color.red}" + "Hello World" + f"{aesthetic.reset}
+
+# print a text with icon
+print(f"{aesthetic.icon.check}" + "the task has been completed successfully" + f"{aesthetic.reset}")
+```
